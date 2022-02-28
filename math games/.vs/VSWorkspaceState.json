@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\__snapshots__",
+    "\\src\\constant",
+    "\\src\\containers",
+    "\\src\\redux",
+    "\\src\\utils"
+  ],
+  "PreviewInSolutionExplorer": false
+}
