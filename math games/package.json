@@ -2,13 +2,14 @@
   "name": "math-app",
   "version": "0.8.0",
   "private": true,
-  "homepage": "https://iparhai.github.io/addition_counting_objects",
+  "homepage": "https://AmnaMunawar461.github.io/Ascending---Descending",
   "dependencies": {
     "animate.css": "^4.1.1",
     "axios": "^0.21.4",
     "konva": "^8.1.4",
     "min-jquery": "^1.7.0",
     "moment": "^2.29.1",
+    "package": "^1.0.1",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-drag-drop-container": "^6.1.1",
@@ -26,8 +27,9 @@
     "use-sound": "^4.0.1"
   },
   "scripts": {
+
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts build && cp build/index.html build/404.html",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
