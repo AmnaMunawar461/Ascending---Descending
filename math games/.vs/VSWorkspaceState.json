@@ -1,13 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\src",
-    "\\src\\components",
-    "\\src\\components\\__snapshots__",
-    "\\src\\constant",
-    "\\src\\containers",
-    "\\src\\redux",
-    "\\src\\utils"
+    ""
   ],
+  "SelectedNode": "\\public",
   "PreviewInSolutionExplorer": false
 }
